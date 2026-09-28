@@ -22,8 +22,6 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-Sous Fedora, lance le programme depuis ta session graphique KDE. Teste d'abord les actions sur des copies de fichiers.
-
 ## Utilisation
 
 1. Clique sur **Choisir un dossier**.
